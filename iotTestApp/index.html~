@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>グラフの画像</title>
+</head>
+<body>
+<body>                                                                     
+  <img src="cgi-bin/oneday.png">                                                                  
+  <img src="cgi-bin/third.png">
+</body></html>

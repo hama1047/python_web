@@ -1,0 +1,8 @@
+import http.server
+
+server_address = ("",8000)
+handler_class = http.server.HTTPRequestHandler
+simple_server = http.server.HTTPServer(server_address,handler_class)
+simple_server.serve_forever()
+
+#csvtotable sensorData.csv index.html
